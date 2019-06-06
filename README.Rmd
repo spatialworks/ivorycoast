@@ -25,6 +25,7 @@ Designing surveys require relevant datasets to be used as basis for sample size 
 
 Install `ivorycoast` package from GitHub via devtools:
 
+```{r, echo = TRUE, eval = FALSE}
 if(!require(devtools)) install.packages("devtools")
 install_github("validmeasures/ivorycoast")
-
+```

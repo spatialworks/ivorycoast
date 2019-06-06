@@ -23,5 +23,7 @@ designing surveys in Ivory Coast.
 
 Install `ivorycoast` package from GitHub via devtools:
 
-if(\!require(devtools)) install.packages(“devtools”)
-install\_github(“validmeasures/ivorycoast”)
+``` r
+if(!require(devtools)) install.packages("devtools")
+install_github("validmeasures/ivorycoast")
+```
