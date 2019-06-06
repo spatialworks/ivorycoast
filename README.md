@@ -9,6 +9,8 @@
 maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/ivorycoast)](https://cran.r-project.org/package=ivorycoast)
+[![Travis build
+status](https://travis-ci.org/validmeasures/ivorycoast.svg?branch=master)](https://travis-ci.org/validmeasures/ivorycoast)
 <!-- badges: end -->
 
 Designing surveys require relevant datasets to be used as basis for
