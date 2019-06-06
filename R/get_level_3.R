@@ -21,13 +21,16 @@
 ################################################################################
 
 get_level_3 <- function(url = steer$url[steer$level == 3]) {
-  x <- tempdir()
+  x <- file.path(tempdir(), "shp")
   y <- tempfile()
   download.file(url = url, destfile = y)
   ## Unzip downloaded zip file
   unzip(zipfile = y, exdir = x)
-  ## Read map layer
-  rgdal::readOGR(dsn = x, layer = rgdal::ogrListLayers(dsn = x)[1])
+  ## Read map layers
+  shp <- rgdal::readOGR(dsn = x, layer = rgdal::ogrListLayers(dsn = x))
+  unlink(y)
+  unlink(x, recursive = TRUE)
+  return(shp)
 }
 
 
