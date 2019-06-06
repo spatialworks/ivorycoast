@@ -11,6 +11,8 @@ maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www
 status](https://www.r-pkg.org/badges/version/ivorycoast)](https://cran.r-project.org/package=ivorycoast)
 [![Travis build
 status](https://travis-ci.org/validmeasures/ivorycoast.svg?branch=master)](https://travis-ci.org/validmeasures/ivorycoast)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/validmeasures/ivorycoast?branch=master&svg=true)](https://ci.appveyor.com/project/validmeasures/ivorycoast)
 <!-- badges: end -->
 
 Designing surveys require relevant datasets to be used as basis for
