@@ -19,4 +19,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/validmeasures/ivorycoast
 BugReports: https://github.com/validmeasures/ivorycoast/issues
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.0
