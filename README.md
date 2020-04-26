@@ -10,9 +10,9 @@ maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www
 [![CRAN
 status](https://www.r-pkg.org/badges/version/ivorycoast)](https://cran.r-project.org/package=ivorycoast)
 [![Travis build
-status](https://travis-ci.org/validmeasures/ivorycoast.svg?branch=master)](https://travis-ci.org/validmeasures/ivorycoast)
+status](https://travis-ci.org/spatialworks/ivorycoast.svg?branch=master)](https://travis-ci.org/spatialworks/ivorycoast)
 [![AppVeyor build
-status](https://ci.appveyor.com/api/projects/status/github/validmeasures/ivorycoast?branch=master&svg=true)](https://ci.appveyor.com/project/validmeasures/ivorycoast)
+status](https://ci.appveyor.com/api/projects/status/github/spatialworks/ivorycoast?branch=master&svg=true)](https://ci.appveyor.com/project/spatialworks/ivorycoast)
 <!-- badges: end -->
 
 Designing surveys require relevant datasets to be used as basis for
@@ -28,6 +28,6 @@ designing surveys in Ivory Coast.
 Install `ivorycoast` package from GitHub via devtools:
 
 ``` r
-if(!require(devtools)) install.packages("devtools")
-install_github("validmeasures/ivorycoast")
+if(!require(remotes)) install.packages("remotes")
+install_github("spatialworks/ivorycoast")
 ```
