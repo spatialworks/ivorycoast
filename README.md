@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# ivorycoast: Datasets for use in Designing Surveys in Ivory Coast
+# ivorycoast: Datasets for use in Designing Surveys in Ivory Coast <img src="https://www.cia.gov/library/publications/resources/the-world-factbook/attachments/flags/IV-flag.gif" width="200px" align="right" />
 
 <!-- badges: start -->
 
