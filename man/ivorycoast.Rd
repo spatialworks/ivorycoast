@@ -3,7 +3,6 @@
 \docType{package}
 \name{ivorycoast}
 \alias{ivorycoast}
-\alias{ivorycoast-package}
 \title{Datasets for use in designing surveys in Ivory Coast}
 \description{
 Designing surveys require relevant datasets to be used as basis for
