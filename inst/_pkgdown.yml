@@ -1,0 +1,34 @@
+title: ivorycoast
+
+url: https://spatialworks.io/ivorycoast
+
+template:
+  params:
+    bootswatch: sandstone
+    ganalytics:
+
+#home:
+  #strip_header: true
+#  links:
+#  - text: Read more about the WHO Growth Standards
+#    href: https://www.who.int/childgrowth/en/
+#
+#  - text: Read more about MUAC-for-age z-scores development
+#    href: https://doi.org/10.1136/bmj.j3423
+
+reference:
+- title: Description
+  contents:
+  - ivorycoast
+
+- title: Pull data
+  contents:
+  - get_level_0
+  - get_level_1
+  - get_level_2
+  - get_level_3
+  - get_settlements
+
+
+
+
